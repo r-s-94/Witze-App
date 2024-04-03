@@ -1,0 +1,381 @@
+@media screen and (min-width: 1000px) {
+  .joke-head-container__smiley-emoji-left {
+    font-size: 3.5rem;
+    margin: 0 5%;
+  }
+
+  .joke-head-container__headline {
+    font-size: 5rem;
+  }
+
+  .joke-head-container__smiley-emoji-right {
+    font-size: 3.5rem;
+    margin: 0 5%;
+  }
+
+  .joke-button-container {
+    margin-top: 2%;
+  }
+
+  .generateJoke {
+    margin-left: 7%;
+    padding: 0.5% 0;
+    width: 20rem;
+  }
+
+  .generate-joke__clown-emoji-left {
+    margin: 0 5% 0 5%;
+    font-size: 2rem;
+  }
+
+  .generate-joke__text {
+    font-size: 3rem;
+    padding: 0 0.1rem;
+    width: 100%;
+    line-height: 2.2rem;
+  }
+
+  .generate-joke__clown-emoji-right {
+    font-size: 2rem;
+    margin: 0 5% 0 5%;
+  }
+
+  .addJoke {
+    margin-left: 5%;
+    padding: 0.5% 0.5%;
+    height: 100%;
+  }
+
+  .addJoke__star-emoji {
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0rem;
+    padding: 0;
+  }
+
+  .joke-show-element {
+    font-size: 1.7rem;
+    line-height: 1.5rem;
+    margin: 5% 5% 0 5%;
+  }
+
+  .joke-list-section__headline-star-emoji {
+    font-size: 3rem;
+  }
+
+  .joke-list-section__joke-headline {
+    font-size: 3.5rem;
+  }
+
+  .joke-div {
+    margin: 0 10% 2.5% 25%;
+    padding: 0;
+    max-width: 50%;
+  }
+
+  .joke {
+    font-size: 1.7rem;
+    line-height: 2.5rem;
+    margin: 2.5% 0 2.5% 5%;
+  }
+
+  .deleteJoke {
+    padding: 0 2%;
+    margin: 0 10% 0 0;
+  }
+
+  .red-points-top {
+    width: 100%;
+  }
+
+  .deleteJoke__grid--red-point-top {
+    margin-top: 30%;
+    width: 0.5rem;
+    height: 0.5rem;
+  }
+
+  .deleteJoke__garbagecan-emoji {
+    font-size: 2.2rem;
+  }
+
+  .deleteJoke__grid--red-point-buttom {
+    width: 0.5rem;
+    height: 0.5rem;
+    margin-bottom: 30%;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .joke-head-container__smiley-emoji-left {
+    font-size: 3.5rem;
+    margin: 0 5%;
+  }
+
+  .joke-head-container__headline {
+    font-size: 5rem;
+  }
+
+  .joke-head-container__smiley-emoji-right {
+    font-size: 3.5rem;
+    margin: 0 5%;
+  }
+
+  .joke-button-container {
+    margin-top: 7%;
+  }
+
+  .generateJoke {
+    margin-left: 15%;
+    padding: 1% 0;
+    width: 20rem;
+  }
+
+  .generate-joke__clown-emoji-left {
+    margin: 0 5% 0 5%;
+    font-size: 2rem;
+  }
+
+  .generate-joke__text {
+    font-size: 2.7rem;
+    padding: 0 0.1rem;
+    width: 100%;
+    line-height: 2.2rem;
+  }
+
+  .generate-joke__clown-emoji-right {
+    font-size: 2rem;
+    margin: 0 5% 0 5%;
+  }
+
+  .addJoke {
+    margin-left: 7%;
+    padding: 1% 1%;
+    height: 100%;
+  }
+
+  .addJoke__star-emoji {
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0rem;
+    padding: 0;
+  }
+
+  .joke-show-element {
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    margin: 10% 5% 0 5%;
+  }
+
+  .joke-list-section__headline-star-emoji {
+    font-size: 2.5rem;
+  }
+
+  .joke-list-section__joke-headline {
+    font-size: 3.2rem;
+  }
+
+  .joke-div {
+    margin: 0 auto 3% auto;
+    padding: 0;
+    max-width: 75%;
+  }
+
+  .joke {
+    font-size: 1.5rem;
+    margin: 3% 0 3% 5%;
+  }
+
+  .deleteJoke {
+    padding: 0 2%;
+  }
+
+  .deleteJoke__garbagecan-emoji {
+    font-size: 2rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .joke-head-container__smiley-emoji-left {
+    font-size: 2.5rem;
+    margin: 0 5%;
+  }
+
+  .joke-head-container__headline {
+    font-size: 3rem;
+  }
+
+  .joke-head-container__smiley-emoji-right {
+    font-size: 2.5rem;
+    margin: 0 5%;
+  }
+
+  .joke-button-container {
+    margin-top: 7%;
+  }
+
+  .generateJoke {
+    margin-left: 15%;
+    padding: 1% 0;
+    width: 12rem;
+  }
+
+  .generate-joke__clown-emoji-left {
+    margin: 0 0 0 2%;
+    font-size: 1.5rem;
+  }
+
+  .generate-joke__text {
+    font-size: 2rem;
+    padding: 0 0;
+    line-height: 1.7rem;
+    margin: 0;
+  }
+
+  .generate-joke__clown-emoji-right {
+    font-size: 1.5rem;
+    margin: 0 2% 0 0;
+  }
+
+  .addJoke {
+    margin-left: 2%;
+    padding: 1.5% 2%;
+  }
+
+  .addJoke__star-emoji {
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0rem;
+    padding: 0;
+  }
+
+  .joke-show-element {
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    margin: 10% 5% 0 5%;
+  }
+
+  .joke-list-section__headline-star-emoji {
+    font-size: 2.2rem;
+  }
+
+  .joke-list-section__joke-headline {
+    font-size: 2.7rem;
+  }
+
+  .joke-div {
+    margin: 0 0 5% 7%;
+    padding: 0;
+    max-width: 85%;
+  }
+
+  .joke {
+    font-size: 1.2rem;
+    margin: 10% 0 10% 7%;
+  }
+
+  .deleteJoke {
+    padding: 0 2%;
+    margin: 0 7% 0 0;
+  }
+
+  .deleteJoke__garbagecan-emoji {
+    font-size: 1.8rem;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  .joke-head-container__smiley-emoji-left {
+    font-size: 1.5rem;
+    margin: 0 7%;
+  }
+
+  .joke-head-container__headline {
+    font-size: 2.5rem;
+  }
+
+  .joke-head-container__smiley-emoji-right {
+    font-size: 1.5rem;
+    margin: 0 7%;
+  }
+
+  .joke-button-container {
+    margin-top: 7%;
+  }
+
+  .generateJoke {
+    margin: 0 2% 0 17%;
+    padding: 2% 0;
+    width: 8rem;
+  }
+
+  .generate-joke__clown-emoji-left {
+    margin: 0 0 0 2%;
+    font-size: 1rem;
+  }
+
+  .generate-joke__text {
+    font-size: 1.5rem;
+    padding: 0 2%;
+    line-height: 1.2rem;
+  }
+
+  .generate-joke__clown-emoji-right {
+    font-size: 1rem;
+    margin: 0 2% 0 0;
+  }
+
+  .addJoke {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5% 2%;
+  }
+
+  .addJoke__star-emoji {
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0rem;
+    padding: 0;
+  }
+
+  .joke-show-element {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    margin: 10% 5% 0 5%;
+  }
+
+  .joke-list-section__headline-star-emoji {
+    font-size: 1.7rem;
+  }
+
+  .joke-list-section__joke-headline {
+    font-size: 2rem;
+  }
+
+  .joke-div {
+    margin: 0 7% 10% 7%;
+    padding: 0;
+  }
+
+  .joke {
+    font-size: 1rem;
+    margin: 10% 0 10% 5%;
+  }
+
+  .deleteJoke {
+    padding: 0 5%;
+    margin: 0 5% 0 0;
+  }
+
+  .deleteJoke__garbagecan-emoji {
+    font-size: 1.5rem;
+  }
+}
