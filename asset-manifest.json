@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Witze-App/static/css/main.a4ae0732.css",
-    "main.js": "/Witze-App/static/js/main.e49fa08e.js",
+    "main.css": "/Witze-App/static/css/main.399f3eb1.css",
+    "main.js": "/Witze-App/static/js/main.6553fdff.js",
     "index.html": "/Witze-App/index.html",
-    "main.a4ae0732.css.map": "/Witze-App/static/css/main.a4ae0732.css.map",
-    "main.e49fa08e.js.map": "/Witze-App/static/js/main.e49fa08e.js.map"
+    "main.399f3eb1.css.map": "/Witze-App/static/css/main.399f3eb1.css.map",
+    "main.6553fdff.js.map": "/Witze-App/static/js/main.6553fdff.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4ae0732.css",
-    "static/js/main.e49fa08e.js"
+    "static/css/main.399f3eb1.css",
+    "static/js/main.6553fdff.js"
   ]
 }
